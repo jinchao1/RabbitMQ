@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Channel"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.ConnectionFactory"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.MessageProperties"/>
+<fullyQualifiedTypeName name="javax.imageio.event.IIOReadWarningListener"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Connection.Tune"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.slf4j.helpers.MarkerIgnoringBase"/>
+<fullyQualifiedTypeName name="util.RabbitmqUtils"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.Connection"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.Channel"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.DefaultConsumer"/>
+<fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+<fullyQualifiedTypeName name="com.baizhi.RabbitmqSpringbootApplication"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.junit4.SpringRunner"/>
+<fullyQualifiedTypeName name="org.springframework.amqp.rabbit.core.RabbitTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.amqp.rabbit.annotation.RabbitHandler"/>
+<fullyQualifiedTypeName name="org.springframework.jca.work.WorkManagerTaskExecutor"/>
+<fullyQualifiedTypeName name="javax.validation.Valid"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.amqp.rabbit.connection.PublisherCallbackChannelConnectionFactory"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.springframework.amqp.rabbit.annotation.RabbitListener"/>
+<fullyQualifiedTypeName name="org.springframework.amqp.rabbit.annotation.QueueBinding"/>
+<fullyQualifiedTypeName name="org.springframework.amqp.rabbit.annotation.Queue"/>
+<fullyQualifiedTypeName name="org.springframework.amqp.rabbit.annotation.Exchange"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
